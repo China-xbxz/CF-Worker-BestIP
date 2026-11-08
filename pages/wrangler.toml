@@ -4,12 +4,11 @@ compatibility_date = "2024-01-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "cf-best-ip-db"
-database_id = ""
+database_id = "565bd285-cb35-474e-8042-d78cd23b7056"
 
 [[kv_namespaces]]
 binding = "KV"
-id = ""
-preview_id = ""
+id = "b11fabff7e704b34a9fda21f4cfa85af"
 
 [vars]
 # 安全：不要把密码写在这里（本文件会进仓库）。
